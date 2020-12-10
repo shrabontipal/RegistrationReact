@@ -1,3 +1,11 @@
+Code a simple registration component with email, password, confirm password register button
+rules:
+username must be 8 characters and above
+password should be 8 characters and above
+confirm password should be equal to the password
+register button must only be enabled if all rules are satisfied
+error msg div at the top, show error msgs if any
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
